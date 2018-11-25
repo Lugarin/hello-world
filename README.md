@@ -1,5 +1,4 @@
 # hello-world
-创建和使用仓库
 package com.example.fistwebapp;
 
 import org.springframework.boot.SpringApplication;
